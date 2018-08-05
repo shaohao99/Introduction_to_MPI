@@ -16,9 +16,6 @@
  *   0  +-------------------+ 100   +-------------------+         
  *      0         T       100                                    
  *                                                                 
- * Each PE only has a local subgrid.
- * Each PE works on a sub grid and then sends         
- * its boundaries to neighbors.
  *                                                                 
  *******************************************************************/
 
