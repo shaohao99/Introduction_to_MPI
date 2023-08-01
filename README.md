@@ -1,5 +1,5 @@
 # Introduction_to_MPI
 A tutorial for Message Passing Interface (MPI) programming. C and Fortran examples are provided. 
 
-This tutorial was taught at Boston University.
+Materials for tutorials at Boston University and MIT.
 
